@@ -1,0 +1,9 @@
+numpy
+pandas
+numba
+joblib
+pytest
+memory-profiler
+yfinance
+lxml
+pyarrow

@@ -1,0 +1,18 @@
+# Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and Benchmarks
+data/
+*.csv
+*.parquet
+
+# IDEs
+.vscode/
+.idea/
